@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greenlife-plant-store/static/css/main.9f0ed3ac.css",
+    "main.js": "/greenlife-plant-store/static/js/main.da08783b.js",
+    "index.html": "/greenlife-plant-store/index.html",
+    "main.9f0ed3ac.css.map": "/greenlife-plant-store/static/css/main.9f0ed3ac.css.map",
+    "main.da08783b.js.map": "/greenlife-plant-store/static/js/main.da08783b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0ed3ac.css",
+    "static/js/main.da08783b.js"
+  ]
+}
